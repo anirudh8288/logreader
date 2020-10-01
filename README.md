@@ -1,4 +1,4 @@
-# Log Reader
+# Log Reader-YOUR BUDDY
 Read PluginConstructionKit plugin logs to datastructures.
 
 Currently works just with TypeCount plugin. Should be easy to modify for other
